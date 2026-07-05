@@ -1,7 +1,6 @@
 # snapchart
 
-A new Flutter project.
+A project for the thesis: Co-design and development of a prototype mobile app to enhance patient-clinician communication
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
